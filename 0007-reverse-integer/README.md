@@ -1,6 +1,5 @@
-<h2>7. Reverse Integer</h2<>>
+<h2>7. Reverse Integer</h2>
 <h3>Medium</h3>
-<h6><i>Runtime 38ms (69.12%) - Memory 17.4MB (18.82%)</i></h6>
 <hr>
 <div><p>Given a signed 32-bit integer <code>x</code>, return <code>x</code> <i>with its digits reversed</i>. If reversing <code>x</code> causes the value to go outside the signed 32-bit integer range <code>[-2**31, 2**31 - 1]</code>, then return <code>0</code>.
 

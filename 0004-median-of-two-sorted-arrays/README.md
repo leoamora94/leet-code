@@ -1,6 +1,5 @@
 <h2>4. Median of Two Sorted Arrays</h2>
 <h3>Hard</h3>
-<h6><i>Runtime 68ms (99.75%) - Memory 17.8MB (8.81%)</i></h6>
 <hr>
 <div><p>Given two sorted arrays <code>nums1</code> and <code>nums2</code> of size <code>m</code> and <code>n</code> respectively, return <strong>the median</strong> of the two sorted arrays.</p>
 
